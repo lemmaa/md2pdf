@@ -15,4 +15,4 @@ $ export GITHUG_PASS=<github access token>
 $ ./md2pdf.sh <markdown file>
 ```
 
-NOTE: The name of <markdown file> must end with `.md` extension.
+NOTE: The name of `<markdown file>` must end with `.md` extension.
